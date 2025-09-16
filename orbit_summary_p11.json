@@ -1,0 +1,13 @@
+{
+  "p": 11,
+  "num_words": 44,
+  "num_orbits": 2,
+  "orbit_sizes": [
+    22,
+    22
+  ],
+  "reps": [
+    "BBBRBBRBRRR",
+    "BBBRBRRBRRR"
+  ]
+}
