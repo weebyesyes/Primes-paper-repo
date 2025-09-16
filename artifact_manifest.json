@@ -1,0 +1,58 @@
+{
+  "LICENSE": {
+    "sha256": "f028cdac6416a4584781b68adfde7ed9631008a21d06ef1120348e4d8a0995ce",
+    "bytes": 1064
+  },
+  "README.md": {
+    "sha256": "13fb08fad60d17e2095ffc946378755dbf87dc9920895836db121aa0be1434d9",
+    "bytes": 19
+  },
+  "check_orbits.py": {
+    "sha256": "716d84535515022459725a577ee145809a23c0419c9d6be409c16195a0bcbde4",
+    "bytes": 1248
+  },
+  "enumerate_words.py": {
+    "sha256": "d2a1219960a5b752942a633c494447e32bbef8d6a5c8c46a9e1fd1dc34a6b7a1",
+    "bytes": 2759
+  },
+  "make_cnf.py": {
+    "sha256": "ed9d0276f6905605b658dea94b05cc6d0e9c057c7df7f7803c19998d0ac7409a",
+    "bytes": 551
+  },
+  "model_to_word.py": {
+    "sha256": "d7277d96cd86991e4f4f802391b2286d3598ef7f002e793a0a9710fdcee4de5f",
+    "bytes": 673
+  },
+  "orbit_summary_p11.json": {
+    "sha256": "0e89dee6453b82d86e32f4acf4cf527e1f846aa506e851c862b6d2b263e74b91",
+    "bytes": 144
+  },
+  "orbit_summary_p5.json": {
+    "sha256": "e500f4006c47d06834d3106b50fad96768f112e71123973963ad684276d59f27",
+    "bytes": 169
+  },
+  "orbit_summary_p7.json": {
+    "sha256": "3ae1d564c99daedfd36cf88c70bae10618e44fd98043c42dca759cc0f9590abb",
+    "bytes": 135
+  },
+  "run_all.sh": {
+    "sha256": "8dd1803f72824108fe6d7dc95e8b798f17d8dcef85e4ac62d680beaa6f6c4330",
+    "bytes": 4130
+  },
+  "solutions_p11.txt": {
+    "sha256": "c87326abdef63d316fe81dedf392deb038d7d9b48841814e9e55c6c4cf821e17",
+    "bytes": 528
+  },
+  "solutions_p5.txt": {
+    "sha256": "ca6dba6ecb4be08d63b3844f5bcec979b8bd16f4cff2d0eb98cbfdd3fa42a1e0",
+    "bytes": 120
+  },
+  "solutions_p7.txt": {
+    "sha256": "f4ab65fbd8286aa144b910902778edb6b754634cf09658e085566e902436014d",
+    "bytes": 224
+  },
+  "verifier_strong_form.py": {
+    "sha256": "439fe0f9670f0b9710d19c0b7b0927905e6cfe19a91aa8e5806a83dff03f8073",
+    "bytes": 439
+  }
+}
