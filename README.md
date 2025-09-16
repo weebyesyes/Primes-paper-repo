@@ -1,4 +1,4 @@
-# Repro artifacts
+# Artifacts and scripts
 
 - `verifier_strong_form.py`: residue-window checker
 - `make_cnf.py`: CNF generator
