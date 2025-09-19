@@ -4,8 +4,8 @@
     "bytes": 1064
   },
   "README.md": {
-    "sha256": "13fb08fad60d17e2095ffc946378755dbf87dc9920895836db121aa0be1434d9",
-    "bytes": 19
+    "sha256": "758d09b17057622da9540a9d6abeb4c3ed789ed5d3fbec8095f66e6b48817854",
+    "bytes": 594
   },
   "check_orbits.py": {
     "sha256": "716d84535515022459725a577ee145809a23c0419c9d6be409c16195a0bcbde4",
@@ -14,6 +14,10 @@
   "enumerate_words.py": {
     "sha256": "d2a1219960a5b752942a633c494447e32bbef8d6a5c8c46a9e1fd1dc34a6b7a1",
     "bytes": 2759
+  },
+  "find_wc42.py": {
+    "sha256": "7de8819211b6748138774e9d9869adeccc4e2f0bd16ca66b8acc75f4ef258185",
+    "bytes": 7548
   },
   "make_cnf.py": {
     "sha256": "ed9d0276f6905605b658dea94b05cc6d0e9c057c7df7f7803c19998d0ac7409a",
@@ -50,6 +54,10 @@
   "solutions_p7.txt": {
     "sha256": "f4ab65fbd8286aa144b910902778edb6b754634cf09658e085566e902436014d",
     "bytes": 224
+  },
+  "verifier_cyclic.py": {
+    "sha256": "11ee318fe746f4394c664f82cc9eb8043809fcb32d1c95513688ff33c36af43c",
+    "bytes": 724
   },
   "verifier_strong_form.py": {
     "sha256": "439fe0f9670f0b9710d19c0b7b0927905e6cfe19a91aa8e5806a83dff03f8073",
