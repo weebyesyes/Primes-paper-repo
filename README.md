@@ -6,6 +6,8 @@
 - `check_orbits.py`: orbit summary under dihedral action
 - `run_all.sh`: convenience runner
 - `solutions_p5.txt`, `solutions_p7.txt`, `solutions_p11.txt`: complete solution lists
+- `find_wc42.py` — composite-modulus sweep for the cyclic vdW number at `(k,r)=(4,2)` (non-degenerate windows only)
+- `verifier_cyclic.py` — verifier for composite moduli (checks only **non-degenerate** residue windows)
 
 ## Examples
 ```bash
